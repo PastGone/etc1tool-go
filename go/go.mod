@@ -1,3 +1,3 @@
 module etc1tool
 
-go 1.20
+go 1.13
